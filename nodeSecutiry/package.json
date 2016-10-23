@@ -1,0 +1,30 @@
+{
+  "name": "node-security",
+  "version": "1.0.0",
+  "description": "Node Security with base auth and oauth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aubacca/javaScriptStuff.git"
+  },
+  "keywords": [
+    "node",
+    "base",
+    "auth",
+    "oauth",
+    "oauth2"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aubacca/javaScriptStuff/issues"
+  },
+  "homepage": "https://github.com/Aubacca/javaScriptStuff#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-stormpath": "^3.1.5"
+  }
+}
